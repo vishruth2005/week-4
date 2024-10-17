@@ -36,7 +36,7 @@ Test files:
 - [test/test-helpers.ts](test/test-helpers.ts) – Helpers used in the tests.
 
 ### Exercise 5: Hardhat Configuration
-We will configure Hardhat to use the Alchemy API and connect to the Ropsten test network.
+We will configure Hardhat to use the Alchemy API and connect to the Sepolia test network.
 
 Configuration file:
 
@@ -49,8 +49,8 @@ Configuration file:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nitk-surathkal-unidao/week-3.git
-   cd week-3
+   git clone https://github.com/nitk-surathkal-unidao/week-4.git
+   cd week-4
    ```
 
 2. Install dependencies:
