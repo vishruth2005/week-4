@@ -1,4 +1,4 @@
-# 📝 Assignment for Week 3: NFTs and the Metaverse
+# 📝 Assignment for Week 4: NFTs and the Metaverse
 
 In this week's assignment, we will work on building a simple NFT contract, setting up Hardhat tasks, and creating test cases to ensure proper functionality. The tasks involve deploying, minting, and interacting with an NFT smart contract, which we'll build using OpenZeppelin and Hardhat.
 
