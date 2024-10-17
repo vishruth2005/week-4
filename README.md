@@ -124,7 +124,7 @@ MyNFT
 
 - A link to your GitHub Pull Request with the implemented contract and tasks.
 
-- Head over to the Coursework submission link: [Google Form](https://forms.gle/link) to submit your work.
+- Head over to the Coursework submission link: [Google Form]([https://forms.gle/link](https://docs.google.com/forms/d/e/1FAIpQLSdfph82JLQgBbL70sOW5Y58_IgeDOFRbDnUkJ1rHY5hsZfgCg/viewform?usp=sf_link)) to submit your work.
 
 Inform your UniDAO lead once the submission has been made.
 
