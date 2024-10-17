@@ -4,6 +4,18 @@ In this week's assignment, we will work on building a simple NFT contract, setti
 
 ## Exercise Breakdown
 
+
+### Exercise 0 : initialise your hardhat project
+
+```
+mkdir nft-project
+cd nft-project
+npx hardhat
+```
+
+#### IMPORTANT : The given files are just for helping purposes and giving idea of the structure of the project. 
+This repo contains  Demo codes for the files without the depandancies.
+
 ### Exercise 1: Create Your Solidity Contract
 You will write a simple ERC721-based contract for minting NFTs using OpenZeppelin libraries.
 
@@ -44,41 +56,28 @@ Configuration file:
 
 ---
 
-## How to Run the Project
+## Useful Commands
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/nitk-surathkal-unidao/week-4.git
-   cd week-4
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Set up environment variables in a `.env` file:
+-  Set up environment variables in a `.env` file:
 
    ```bash
    ALCHEMY_API_KEY=your-alchemy-api-key
    ETH_PRIVATE_KEY=your-private-key
    ```
 
-4. Compile the smart contracts:
+- Compile the smart contracts:
 
    ```bash
    npx hardhat compile
    ```
 
-5. Deploy the contract:
+-  Deploy the contract:
 
    ```bash
    npx hardhat deploy-contract
    ```
 
-6. Mint an NFT:
+- Mint an NFT:
 
    ```bash
    npx hardhat mint-nft --tokenUri "https://example.com/token-metadata"
