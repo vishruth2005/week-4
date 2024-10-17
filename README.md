@@ -5,13 +5,16 @@ In this week's assignment, we will work on building a simple NFT contract, setti
 ## Exercise Breakdown
 
 
-### Exercise 0 : initialise your hardhat project
+### Exercise 0 : Initialise your Hardhat project
 
-```
-mkdir nft-project
-cd nft-project
-npx hardhat
-```
+   ```
+   mkdir nft-project
+   cd nft-project
+   npx hardhat
+   ```
+
+make sure to use  `.env` file for sensetive info.
+
 
 #### IMPORTANT : The given files are just for helping purposes and giving idea of the structure of the project. 
 This repo contains  Demo codes for the files without the depandancies.
@@ -58,12 +61,6 @@ Configuration file:
 
 ## Useful Commands
 
--  Set up environment variables in a `.env` file:
-
-   ```bash
-   ALCHEMY_API_KEY=your-alchemy-api-key
-   ETH_PRIVATE_KEY=your-private-key
-   ```
 
 - Compile the smart contracts:
 
